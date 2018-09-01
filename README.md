@@ -10,5 +10,11 @@
 
 
 
+```
+def index():
+    for i in range(10):
+        print(i)
 
-- here is my in vmware addet it
+
+index()
+```
