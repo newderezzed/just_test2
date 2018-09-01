@@ -7,3 +7,8 @@
 
 - this is feature1 addit it 
 - this is dev added it
+
+
+
+
+- here is my in vmware addet it
